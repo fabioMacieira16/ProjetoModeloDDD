@@ -1,0 +1,5 @@
+C:\Users\fabio\Documents\Documentos\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.domain\bin\Debug\ProjetoModeloDDD.domain.dll
+C:\Users\fabio\Documents\Documentos\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.domain\bin\Debug\ProjetoModeloDDD.domain.pdb
+C:\Users\fabio\Documents\Documentos\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.domain\obj\Debug\ProjetoModeloDDD.domain.csprojAssemblyReference.cache
+C:\Users\fabio\Documents\Documentos\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.domain\obj\Debug\ProjetoModeloDDD.domain.dll
+C:\Users\fabio\Documents\Documentos\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.domain\obj\Debug\ProjetoModeloDDD.domain.pdb

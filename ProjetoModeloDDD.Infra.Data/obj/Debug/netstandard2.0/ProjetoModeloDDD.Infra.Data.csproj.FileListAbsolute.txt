@@ -1,0 +1,11 @@
+C:\Users\fabio\Documents\Documentos\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netstandard2.0\ProjetoModeloDDD.Infra.Data.deps.json
+C:\Users\fabio\Documents\Documentos\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netstandard2.0\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\fabio\Documents\Documentos\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netstandard2.0\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\fabio\Documents\Documentos\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netstandard2.0\ProjetoModeloDDD.domain.dll
+C:\Users\fabio\Documents\Documentos\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netstandard2.0\ProjetoModeloDDD.domain.pdb
+C:\Users\fabio\Documents\Documentos\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netstandard2.0\ProjetoModeloDDD.Infra.Data.csprojAssemblyReference.cache
+C:\Users\fabio\Documents\Documentos\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netstandard2.0\ProjetoModeloDDD.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Documentos\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netstandard2.0\ProjetoModeloDDD.Infra.Data.AssemblyInfo.cs
+C:\Users\fabio\Documents\Documentos\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netstandard2.0\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+C:\Users\fabio\Documents\Documentos\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netstandard2.0\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\fabio\Documents\Documentos\Estudos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netstandard2.0\ProjetoModeloDDD.Infra.Data.pdb
